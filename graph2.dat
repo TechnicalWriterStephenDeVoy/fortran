@@ -1,0 +1,18 @@
+Boston,New York,200
+New York,Chicago,800
+Boston,Washington D.C.,300
+New York,Washington D.C.,120
+Washington D.C.,New York,120
+Chicago,Los Angeles,2000
+Chicago,Seattle,2000
+Los Angeles,Honolulu,2000
+Los Angeles,Tokyo,4000
+Los Angeles,Boston,3000
+New York,Paris,3200
+Boston,Dublin,3000
+Dublin,Boston,3000
+Paris,Moscow,1500
+Moscow,Tokyo,5000
+Tokyo,Moscow,5000
+Honolulu,Tokyo,2000
+Tokyo,Honolulu,2000
